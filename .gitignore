@@ -16,5 +16,6 @@ export_presets.cfg
 gdlibrary.os
 Client.os
 Server.os
+HTTP.os
 linuxbsd/
 builds/
