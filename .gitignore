@@ -1,0 +1,20 @@
+# Node.js
+package-lock.json
+node_modules/
+
+# Godot 4+ specific ignores
+.godot/
+
+# Godot-specific ignores
+.import/
+export.cfg
+export_presets.cfg
+
+# CPP specific ignores
+.vscode/
+.sconsign.dblite
+gdlibrary.os
+Client.os
+Server.os
+linuxbsd/
+builds/
